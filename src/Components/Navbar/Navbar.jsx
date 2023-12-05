@@ -7,7 +7,7 @@ const Navbar = () => {
   };
 
   const handleGithubClick = () => {
-    window.location.href = 'https://github.com/Silas1008/sageEmail';
+    window.location.href = 'https://github.com/Silas1008/sage';
   };
 
   const handleSageClick = () => {
