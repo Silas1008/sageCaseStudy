@@ -1,0 +1,11 @@
+.mobile-app{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+.image-one img{
+    width: 80vw;
+}
+.image-two img{
+    width: 80vw;
+}

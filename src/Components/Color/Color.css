@@ -1,0 +1,24 @@
+.color {
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+    width: 70vw;
+    margin-left: 200px;
+    margin-bottom: 50px;
+  }
+  .color img{
+    width: 60vw;
+  }
+  
+  .text {
+    line-height:30px;
+    font-weight: 400;
+    margin-bottom: 50px;
+  }
+  .text h1{
+    font-size: 30px;
+  }
+  
+  
+  

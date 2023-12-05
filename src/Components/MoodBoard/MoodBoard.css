@@ -1,0 +1,18 @@
+.moodboard{
+  display: grid;
+  justify-items: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.mood-image img{
+    width: 93vw;
+    margin-bottom: 50px;
+  }
+  .mood-title h1{
+    font-size: 30px;
+  }
+  .board-image img{
+    width: 45vw;
+  }

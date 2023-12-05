@@ -1,0 +1,21 @@
+.fonts {
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+    width: 70vw;
+    margin-left: 200px;
+    margin-top: 50px;
+  }
+  .fonts-image img{
+    width: 60vw;
+    margin-bottom: 50px;
+  }
+  .fonts p{
+    line-height:30px;
+    font-weight: 400;
+    margin-bottom: 50px;
+  }
+  .fonts h1{
+    font-size: 30px;
+  }

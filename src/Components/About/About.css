@@ -1,0 +1,35 @@
+.about {
+    height: 100vh;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    width: 70vw;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    margin-left: 200px;
+    margin-bottom: 50px;
+  }
+  
+  .header-about {
+    margin-bottom: 20px;
+  }
+  
+  .about-tag {
+    font-size: 40px;
+    margin-bottom: 20px;
+  }
+  .about-issues h4{
+    font-size: 17px;
+    color: red;
+  }
+  .about-issues h5{
+    font-size: 17px;
+    color: blue;
+  }
+  .about-para {
+    line-height:30px;
+    font-weight: 500;
+  }
+
+
+  
