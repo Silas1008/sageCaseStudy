@@ -3,7 +3,7 @@ import './Navbar.css';
 
 const Navbar = () => {
   const handleWebsiteClick = () => {
-    window.location.href = 'https://sage-ruddy.vercel.app/';
+    window.location.href = 'https://sage-email.vercel.app/';
   };
 
   const handleGithubClick = () => {
@@ -11,7 +11,7 @@ const Navbar = () => {
   };
 
   const handleSageClick = () => {
-    window.location.href = 'https://sage-email.vercel.app/';
+    window.location.href = 'https://sage-ruddy.vercel.app/';
   };
 
   return (
