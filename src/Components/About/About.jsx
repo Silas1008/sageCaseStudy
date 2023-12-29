@@ -16,7 +16,7 @@ const About = () => {
           
           <div className='about-issues'>
             <h4>The olive oil market can be highly competitive, with many players offering a variety of products. Traditional businesses struggle to stand out in a crowded market.</h4>
-            <h5>Creating a website to showcase products, tell the story of the business, and facilitate online sales. Social media platforms to engage with consumers, share the company's story, and promote products.</h5>
+            <h5>Creating a website to showcase products to facilitate online sales. Social media platforms to engage with consumers, share the company's story, and promote products.</h5>
           </div>
         </div>
         

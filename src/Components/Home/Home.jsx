@@ -7,7 +7,6 @@ import Fonts from '../Fonts/Fonts';
 import MoodBoard from '../MoodBoard/MoodBoard';
 import Mockup from '../Mockup/Mockup';
 import MobileApp from '../MobileApp/MobileApp';
-import Results from '../Results/Results';
 import './Home.css';
 import BackToTopButton from '../BackToTop/BackToTopButton';
 
@@ -23,8 +22,7 @@ const Home = () => {
       <MoodBoard id="moodboard"/>
       <Mockup id="mockup"/>
       <MobileApp id="mobileapp"/>
-      <Results id="results"/>
-      <BackToTopButton/>
+     <BackToTopButton/>
     </div>
   );
 }
