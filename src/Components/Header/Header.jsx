@@ -17,7 +17,6 @@ const Header = () => {
           <li className='link'><Link to="color" smooth={true} duration={500}>Color Palette</Link></li>
           <li className='link'><Link to="fonts" smooth={true} duration={500}>Font & logo</Link></li>
           <li className='link'><Link to="mockup" smooth={true} duration={500}>Mock Up</Link></li>
-          <li className='link'><Link to="results" smooth={true} duration={500}>Results</Link></li>
         </ul>
         <h1 id="header-text">Olive Beauty</h1>
       </section>
